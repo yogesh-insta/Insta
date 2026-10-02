@@ -1,5 +1,10 @@
 # Insta
 
+**Stack:** Bash, SQL, Java, Cassandra
+
+**Skills:** Scripting, databases, concurrency
+
+
 Interview-style notes and small programs:
 
 - `C1_BashScripting.sh` counts words under a starting directory
